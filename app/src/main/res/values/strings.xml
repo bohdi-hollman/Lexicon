@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Lexicon</string>
+    <string name="word1">Steadfast Love (chesed)</string>
+    <string name="word2">God(s) (elohim)</string>
+    <string name="word3">Spirit, Breath, or Wind (ruakh)</string>
+    <string name="word4">Blessing (berakah)</string>
+    <string name="word5">Sin (chatta\'ah)</string>
+    <string name="word6">Messiah or Anointed One (mashiakh)</string>
+    <string name="word7">Holy (kadosh)</string>
+    <string name="word8">Repentance (nocham)</string>
+    <string name="word9">Law (torah)</string>
+    <string name="word10">Soul or Life (nephesh)</string>
+    <string name="word11">Love (agape)</string>
+    <string name="word12">Brother or Brethren (adelphos)</string>
+    <string name="word13">Man, Mankind, or Human Being (anthropos)</string>
+    <string name="word14">To Baptize (baptizo)</string>
+    <string name="word15">Cast Out (ekballo)</string>
+    <string name="word16">Church, Assembly, or Gathering (ekklesia)</string>
+    <string name="word17">Sin (hamartia)</string>
+    <string name="word18">Word (logos)</string>
+    <string name="word19">Worship or To Blow a Kiss Toward (proskuneo)</string>
+    <string name="word20">God (theos)</string>
+    <string name="word21">Faith (fide)</string>
+    <string name="word22">Grace (gratia)</string>
+    <string name="word23">God (Deus)</string>
+    <string name="word24">Scripture (scriptura)</string>
+    <string name="word25">Trinity (trinitas)</string>
+    <string name="word26">Covenant (foedus)</string>
+    <string name="word27">Law (lex)</string>
+    <string name="word28">Sin (peccatum)</string>
+    <string name="word29">Theology (theologica)</string>
+    <string name="word30">Book or Bible (biblia)</string>
+    <string name="lexicon">dropDownMenuExample</string>
+    <string-array name="languages">
+        <item>Hebrew</item>
+        <item>Greek</item>
+        <item>Latin</item>
+    </string-array>
+</resources>
+
