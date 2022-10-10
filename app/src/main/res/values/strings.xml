@@ -30,11 +30,6 @@
     <string name="word28">Sin (peccatum)</string>
     <string name="word29">Theology (theologica)</string>
     <string name="word30">Book or Bible (biblia)</string>
-    <string name="lexicon">dropDownMenuExample</string>
-    <string-array name="languages">
-        <item>Hebrew</item>
-        <item>Greek</item>
-        <item>Latin</item>
-    </string-array>
+    <string name="click_to_flip">Click to Flip</string>
 </resources>
 
